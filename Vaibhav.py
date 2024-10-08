@@ -37,3 +37,6 @@ def caesar_cipher():
         decrypted_message = decrypt(message, shift)
         print(f"Decrypted message: {decrypted_message}")
     else:
+         print("Invalid choice! Please choose 'E' for encryption or 'D' for decryption.")
+
+
