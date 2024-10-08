@@ -39,4 +39,8 @@ def caesar_cipher():
     else:
          print("Invalid choice! Please choose 'E' for encryption or 'D' for decryption.")
 
+# Run the program
+caesar_cipher()
+
+
 
